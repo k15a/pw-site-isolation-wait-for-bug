@@ -1,0 +1,13 @@
+{
+  "name": "pw-site-isolation-wait-for-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node -r esm index.js"
+  },
+  "dependencies": {
+    "esm": "^3.2.25",
+    "playwright": "^1.0.2"
+  }
+}
